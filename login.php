@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 
 <head>
     <!-- Required meta tags -->
@@ -25,9 +25,7 @@
                     <label for="password">Parol</label>
                     <input name="password" type="password" class="form-control" id="password" placeholder="1234">
                     <input type="submit" id="login" value="Login" class="btn btn-outline-success btn-form">
-                    </form>
-                    </div>
-                    </div>
+                    </form>                    
                 </div>
             </div>
         </div>
